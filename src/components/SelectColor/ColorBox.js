@@ -46,6 +46,7 @@ const S = {
     border-radius: 8px;
     width: 150px;
     height: 130px;
+    z-index: 10;
 
     .head {
       margin-left: auto;
