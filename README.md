@@ -6,17 +6,19 @@ git clone https://github.com/lwd3737/Time-series-line-chart.git
 
 ```
 npm install
-```. 
+```
+<br>
 
 # 실행
 
 ```
 npm start
-```. 
+```
 
 # 폴더 구조
 
-### assets : 정적 리소스를 관리하는 모듈. 
+### assets : 정적 리소스를 관리하는 모듈
+<br>
 
 ### components : UI 컴포넌트를 관리하는 모듈
 
@@ -30,17 +32,21 @@ npm start
 
 #### -SelectColor : 라인 차트 선 색을 선택할 수 있는 컴포넌트
 
-#### -Table : 차트 데이터 담고 있는 테이블 컴포넌트. 
+#### -Table : 차트 데이터 담고 있는 테이블 컴포넌트
+<br>
 
 ### containers : 비즈니스 로직, 상태, 데이터 처리하는 컴포넌트를 관리하는 모듈
 
-#### ChartsContainer : 차트와 관련된 UI 컴포넌트의 비즈니스 로직, 데이터, 상태를 처리하는 컴포넌트. 
+#### ChartsContainer : 차트와 관련된 UI 컴포넌트의 비즈니스 로직, 데이터, 상태를 처리하는 컴포넌트
+<br>
 
 ### unitls : 유틸리티 함수를 관리하는 모듈
 
-#### -parsing : raw 데이터를 가공해서 UI 렌더링에 사용할 수 있는 데이터로 변환하는 유틸리티 함수들. 
+#### -parsing : raw 데이터를 가공해서 UI 렌더링에 사용할 수 있는 데이터로 변환하는 유틸리티 함수들
+<br>
 
-### theme : 스타일 속성을 관리하는 모듈. 
+### theme : 스타일 속성을 관리하는 모듈
+<br>
 
 # 구현한 기능
 
